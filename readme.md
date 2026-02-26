@@ -17,4 +17,4 @@ Mi occupo di trasformare idee in codice . Attualmente sto lavorando su progetti 
 
 ### 📊 Statistiche di Programmazione
 
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=[IL-TUO-USERNAME]&show_icons=true&theme=radical)
+![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=emaZii&show_icons=true&theme=radical)
