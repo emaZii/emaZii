@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sviluppatore Python :  Backend 
 
-Mi occupo di trasformare idee in codice efficiente e scalabile. Attualmente sto lavorando su progetti focalizzati su Odoo.
+Mi occupo di trasformare idee in codice . Attualmente sto lavorando su progetti focalizzati su Odoo.
 
 ---
 
