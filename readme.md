@@ -4,7 +4,7 @@
 
 Sviluppatore backend junior con esperienza in **PHP/Laravel** e **Python/Odoo**.  
 Mi occupo di logica server-side, database relazionali, REST API e sviluppo di moduli ERP personalizzati.  
-Attualmente in stage come Odoo Developer, dove lavoro su moduli custom in ambiente professionale reale.
+Attualmente ho appena completato un tirocinio formativo come Odoo Developer, dove lavoro su moduli custom in ambiente professionale reale.
 
 ---
 
